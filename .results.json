@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "suites": 3,
+    "tests": 3,
+    "passes": 3,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-12-18T01:10:28.729Z",
+    "end": "2023-12-18T01:10:42.324Z",
+    "duration": 13595
+  },
+  "tests": [
+    {
+      "title": "returns an array of thank you messages for each name provided to the function",
+      "fullTitle": "index.js writeCards() returns an array of thank you messages for each name provided to the function",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "invokes console.log once for each number, counting down from the number provided to zero",
+      "fullTitle": "index.js countDown() invokes console.log once for each number, counting down from the number provided to zero",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "logs each number when counting down, starting from the number provided",
+      "fullTitle": "index.js countDown() logs each number when counting down, starting from the number provided",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "returns an array of thank you messages for each name provided to the function",
+      "fullTitle": "index.js writeCards() returns an array of thank you messages for each name provided to the function",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "invokes console.log once for each number, counting down from the number provided to zero",
+      "fullTitle": "index.js countDown() invokes console.log once for each number, counting down from the number provided to zero",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "logs each number when counting down, starting from the number provided",
+      "fullTitle": "index.js countDown() logs each number when counting down, starting from the number provided",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
